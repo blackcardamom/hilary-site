@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 ![](/static/img/boka_profile_square.jpg)
 
-# Welcome
+# Hello
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut feugiat neque ac enim viverra pulvinar. Proin sit amet metus ut purus ultricies ullamcorper. Donec dignissim turpis nec ligula laoreet, et suscipit eros imperdiet. Pellentesque turpis ligula, pulvinar vel sodales sit amet, rhoncus eget massa. Ut tellus nisi, sodales at laoreet vel, tempus sed magna. Nunc auctor diam lorem, nec pharetra elit venenatis quis. Aenean id urna sed augue rhoncus blandit. Nullam euismod quam ac odio faucibus eleifend. Morbi imperdiet odio lacus, eu egestas ipsum accumsan ac. Aliquam erat lacus, faucibus condimentum libero ac, bibendum consectetur lorem.
 
@@ -25,4 +25,4 @@ Vestibulum est leo, pellentesque sit amet augue eu, porttitor ullamcorper dolor.
 
 ![](/static/img/logo.png)
 
-Sed vitae est efficitur tortor tempor bibendum. Nullam lectus tortor, feugiat ac rhoncus sed, sagittis consectetur nunc. Donec vehicula tempus eros sed condimentum. Nam ac est ac quam congue dignissim in non ligula. Ut eleifend vestibulum ante sit amet posuere. Integer eu leo purus. Nam ultrices dignissim nibh vel ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut id aliquam justo. Curabitur tempor ac magna nec gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Sed vitae est efficitur tortor tempor bibendum. Nullam lectus tortor, feugiat ac rhoncus sed, sagittis consectetur nunc. Donec vehicula tempus eros sed condimentum. Nam ac est ac quam congue dignissim in non ligula. Ut eleifend vestibulum ante sit amet posuere. Integer eu leo purus. Nam ultrices dignissim nibh vel ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut id aliquam justo. Curabitur tempor ac magna nec gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
