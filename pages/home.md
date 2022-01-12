@@ -7,13 +7,16 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![](/static/img/boka_profile_square.jpg)
+![](/static/img/hilary-1.jpg)
 
-# A catchy title
+# Hello
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut feugiat neque ac enim viverra pulvinar. Proin sit amet metus ut purus ultricies ullamcorper. Donec dignissim turpis nec ligula laoreet, et suscipit eros imperdiet. Pellentesque turpis ligula, pulvinar vel sodales sit amet, rhoncus eget massa. Ut tellus nisi, sodales at laoreet vel, tempus sed magna. Nunc auctor diam lorem, nec pharetra elit venenatis quis. Aenean id urna sed augue rhoncus blandit. Nullam euismod quam ac odio faucibus eleifend. Morbi imperdiet odio lacus, eu egestas ipsum accumsan ac. Aliquam erat lacus, faucibus condimentum libero ac, bibendum consectetur lorem.
+Hello and welcome to Hilary Meyer Coaching.
 
-Hello, here is [a link](http://www.google.com).
+
+I am a successful coach and leadership consultant, with over 30 years experience in senior leadership. I understand the challenges of working in education, the health service and in business.
+I have a certificate and diploma in coaching and mentoring from Oxford Brookes university and am accredited with the EMCC. My approach to coaching is person-centred and I firmly believe that coaching is a vehicle to empower others so that they can achieve their goals. Consequently, I work alongside my clients in their development to enable them in periods of change and growth to produce a sustainable outcome. 
+Please feel free to contact me to discuss your coaching requirements and we can devise a programme that is suitable for you and/or your company.    
 
 ## A bit about me
 
