@@ -8,6 +8,6 @@ permalink: /contact/index.html
 navInclude: true
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 4
 ---
 Fill in your details down below and I'll get back to you soon!

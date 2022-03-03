@@ -4,6 +4,7 @@
 	--secondary: white;
 	/*--background: #ebebff;*/
     --background:#f5f5ff;
+    --darker: #b5b5eb;
 }
 
 *, *:before, *:after {
@@ -230,4 +231,23 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+blockquote {
+    margin: 0 20px;
+    padding: 0 20px;
+    border-left: 1px solid var(--darker);
+}
+
+blockquote span {
+    display: block;
+    text-align: right;
+    width: 100%;
+}
+
+@media screen and (max-width:400px){
+    blockquote {
+        margin: 0 10px;
+        padding: 0 10px;
+    }
 }

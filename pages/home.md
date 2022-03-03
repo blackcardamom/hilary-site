@@ -7,25 +7,34 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-![](/static/img/hilary-1.jpg)
+![](/static/img/main_profile.jpg)
 
 # Hello
 
 Hello and welcome to Hilary Meyer Coaching.
 
+I am a successful coach and leadership consultant, with over 30 years experience in senior leadership.
+I understand the challenges of working in education, the health service and in business.
 
-I am a successful coach and leadership consultant, with over 30 years experience in senior leadership. I understand the challenges of working in education, the health service and in business.
-I have a certificate and diploma in coaching and mentoring from Oxford Brookes university and am accredited with the EMCC. My approach to coaching is person-centred and I firmly believe that coaching is a vehicle to empower others so that they can achieve their goals. Consequently, I work alongside my clients in their development to enable them in periods of change and growth to produce a sustainable outcome. 
+I have a certificate and diploma in coaching and mentoring from Oxford Brookes university and am accredited with the EMCC.
+My approach to coaching is person-centred and I firmly believe that coaching is a vehicle to empower others so that they can achieve their goals.
+Consequently, I work alongside my clients in their development to enable them in periods of change and growth to produce a sustainable outcome. 
+
 Please feel free to contact me to discuss your coaching requirements and we can devise a programme that is suitable for you and/or your company.    
-
-## A bit about me
-
-Sed vitae est efficitur tortor tempor bibendum. Nullam lectus tortor, feugiat ac rhoncus sed, sagittis consectetur nunc. Donec vehicula tempus eros sed condimentum. Nam ac est ac quam congue dignissim in non ligula. Ut eleifend vestibulum ante sit amet posuere. Integer eu leo purus. Nam ultrices dignissim nibh vel ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut id aliquam justo. Curabitur tempor ac magna nec gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
 ## Testimonials
 
-Vestibulum est leo, pellentesque sit amet augue eu, porttitor ullamcorper dolor. Cras neque massa, accumsan at venenatis nec, sollicitudin vitae erat. Integer a laoreet dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consectetur, nunc nec commodo blandit, libero enim elementum odio, a tincidunt elit diam nec magna. Vivamus malesuada erat eros, id volutpat magna egestas vel. Nullam aliquet suscipit ex, vel rutrum libero sagittis quis. Nunc ullamcorper feugiat enim, a tempus tortor vehicula vitae. Aenean elementum ex nec quam elementum, in finibus ipsum pulvinar. Mauris quis metus tristique, volutpat urna vel, consequat arcu. Fusce rutrum pulvinar fermentum. Vestibulum et semper diam, at semper augue. Suspendisse nec erat lectus.
+> Coaching with Hilary afforded me the opportunity to discover myself and provided the boost to explore my life direction.
+> A most valuable investment of time.
+> 
+> <span>- Mrs. M. C. (Berkshire)</span>
 
-![](/static/img/logo.png)
+> Hilary’s willingness to connect with me, created a positive environment where I was able to acknowledge and then deal with my internal clutter, leading to a more satisfying life that uses my skills and talents.
 
-Sed vitae est efficitur tortor tempor bibendum. Nullam lectus tortor, feugiat ac rhoncus sed, sagittis consectetur nunc. Donec vehicula tempus eros sed condimentum. Nam ac est ac quam congue dignissim in non ligula. Ut eleifend vestibulum ante sit amet posuere. Integer eu leo purus. Nam ultrices dignissim nibh vel ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut id aliquam justo. Curabitur tempor ac magna nec gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+> Her empathetic listening and insightful questions put me at ease.
+> I became increasingly self-aware and able to set myself realistic targets because it was so motivating to have a coach sensitive to my needs but also observant and with a sense of humour.
+
+> I felt inspired to become a better version of myself because I could admit my obstacles to someone who listened with compassion.
+> Hilary encouraged me whilst also redirecting my focus when I impeded my own progress, which was useful.
+
+> By suggesting small, practical steps and keeping tabs on my progress she has helped me to stick to my goals and achieve my plan.
