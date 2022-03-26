@@ -8,7 +8,6 @@ eleventyNavigation:
   key: Life Coaching
   order: 2
 ---
-
 I have worked with many clients in developmental coaching.
 Whether it is a transitional period of life, coaching for development as a result of trauma or significant change or a need for understanding and discovery, we can find a path that will be of  benefit and fulfilment.
 I fundamentally believe that the client has the answers within them, and that through sensitive and challenging questions, can discover what they are.
