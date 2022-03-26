@@ -13,7 +13,7 @@ Whether it is a transitional period of life, coaching for development as a resul
 
 I fundamentally believe that the client has the answers within them, and that through sensitive and challenging questions, can discover what they are.
 
-### Testimonials
+## Testimonials
 
 > Coaching with Hilary afforded me the opportunity to discover myself and provided the boost to explore my life direction.
 > A most valuable investment of time.
