@@ -14,3 +14,6 @@ I particularly specialise in coaching women in leadership and transformational c
 We work together to develop goals that are sustainable through a programme of partnership which results in a clear way forward. 
 
 I have supported a range of executives dealing with issues such as imposter syndrome, burnout and effective career transition in a variety of contexts.
+
+> Her empathetic listening and insightful questions put me at ease.
+> I became increasingly self-aware and able to set myself realistic targets because it was so motivating to have a coach sensitive to my needs but also observant and with a sense of humour.
