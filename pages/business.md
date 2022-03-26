@@ -17,3 +17,5 @@ I have supported a range of executives dealing with issues such as imposter synd
 
 > Her empathetic listening and insightful questions put me at ease.
 > I became increasingly self-aware and able to set myself realistic targets because it was so motivating to have a coach sensitive to my needs but also observant and with a sense of humour.
+
+> By suggesting small, practical steps and keeping tabs on my progress she has helped me to stick to my goals and achieve my plan.
